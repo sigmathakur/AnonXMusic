@@ -11,7 +11,7 @@ from anony import logger
 from anony.helpers import Track, utils
 
 API_URL = os.environ.get("SHRUTI_API_URL", "https://api.shrutibots.site")
-API_KEY = os.environ.get("SHRUTI_API_KEY", "YOUR_API_KEY")
+API_KEY = os.environ.get("SHRUTI_API_KEY", "ShrutiBotsYsyLxRvVeWQaLVbOR04I")
 
 
 class YouTube:
