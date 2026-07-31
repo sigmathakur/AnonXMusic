@@ -291,4 +291,4 @@ class YouTubeAPI:
             return None, False
 
 
-YouTube = YouTubeAPI()
+YouTube = YouTubeAPI
