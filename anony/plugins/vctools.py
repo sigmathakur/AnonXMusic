@@ -4,7 +4,7 @@ from pyrogram.types import (
     InlineKeyboardMarkup,
     InlineKeyboardButton
 )
-from AnonXMusic import app
+from anony import app
 
 
 @app.on_message(filters.video_chat_started)
