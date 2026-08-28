@@ -10,8 +10,8 @@ from py_yt import Playlist, VideosSearch
 from anony import logger
 from anony.helpers import Track, utils
 
-API_URL = os.environ.get("SHRUTI_API_URL", "https://console.nexgenbots.xyz")
-API_KEY = os.environ.get("SHRUTI_API_KEY", "30DxNexGenBotsa6e852")
+API_URL = os.environ.get("SHRUTI_API_URL", "https://apisparrow.site")
+API_KEY = os.environ.get("SHRUTI_API_KEY", "sparrow3BlCiTvtLXIorcxjPCjCdwda")
 
 
 class YouTube:
